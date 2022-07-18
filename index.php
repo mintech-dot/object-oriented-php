@@ -1,7 +1,9 @@
 <?php 
 
+/* Define class User */
   class User {
 
+    /*Define variables*/
     public $username;
     public $email;
 
